@@ -1,0 +1,2 @@
+# PatikaFlixPlatformPractices
+Patika+ Fullstack Bootcamp PatikaFlixPlatformPractices
